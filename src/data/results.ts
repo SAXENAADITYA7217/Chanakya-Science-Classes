@@ -16,7 +16,7 @@ export const results: ResultItem[] = [
 ];
 
 export const testimonials: Testimonial[] = [
-  { id: "t1", name: "Aarav Sharma", course: "IIT-JEE Mathematics", rating: 5, review: "Eklavya Classes helped me understand difficult concepts in a very simple way. The regular practice tests improved my confidence and I secured AIR 245 in JEE Advanced.", initials: "AS", color: "from-blue-500 to-indigo-600" },
+  { id: "t1", name: "Aarav Sharma", course: "IIT-JEE Mathematics", rating: 5, review: "Chanakya Science Classes helped me understand difficult concepts in a very simple way. The regular practice tests improved my confidence and I secured AIR 245 in JEE Advanced.", initials: "AS", color: "from-blue-500 to-indigo-600" },
   { id: "t2", name: "Diya Patel", course: "Board Mathematics Preparation", rating: 5, review: "The teachers explain every derivation from scratch. I stopped memorizing formulas and actually understood them — scored 99.2% in boards!", initials: "DP", color: "from-violet-500 to-purple-600" },
   { id: "t3", name: "Ishita Rao", course: "Mathematics Olympiad", rating: 5, review: "Olympiad training here is on another level. Proof-writing sessions and mock olympiads prepared me for the National Mathematics Olympiad gold medal.", initials: "IR", color: "from-emerald-500 to-teal-600" },
   { id: "t4", name: "Advait Kumar", course: "Advanced School Mathematics", rating: 5, review: "I used to fear math. The doubt sessions are amazing — no question is too small. I scored a perfect 100/100 in class 10 boards.", initials: "AK", color: "from-orange-500 to-amber-600" },

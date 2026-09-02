@@ -59,7 +59,7 @@ export function Footer() {
         <div>
           <Logo />
           <p className="mt-4 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
-            Eklavya Classes helps students excel across Mathematics, Science, English,
+            Chanakya Science Classes helps students excel across Mathematics, Science, English,
             Computer Science, Social Science, and other core subjects with expert coaching and structured mentoring.
           </p>
           <div className="mt-5 flex gap-2">
@@ -120,15 +120,15 @@ export function Footer() {
           </h4>
           <ul className="mt-4 space-y-3 text-sm text-slate-600 dark:text-slate-400">
             <li className="flex items-start gap-2.5">
-              <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> Galaxy North Ave 2, near Galleria Market, Gaur City 2, Greater Noida, UP 201009
+              <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> Mahagun Mywoods, near Gaur City 2, Sector 16C, Greater Noida, UP 201009
             </li>
             <li className="flex items-start gap-2.5">
               <Phone className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> +91 XXXXX XXXXx
             </li>
             <li className="flex items-start gap-2.5">
               <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" />
-              <a href="mailto:info@eklavyaclasses.com" className="hover:text-brand-600 dark:hover:text-brand-400">
-                info@eklavyaclasses.com
+              <a href="mailto:info@chanakyascienceclasses.com" className="hover:text-brand-600 dark:hover:text-brand-400">
+                info@chanakyascienceclasses.com
               </a>
             </li>
           </ul>

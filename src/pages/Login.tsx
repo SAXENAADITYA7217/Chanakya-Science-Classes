@@ -11,7 +11,7 @@ import { PageHeader } from "@/components/shared/PageHeader";
 export default function Login() {
   const navigate = useNavigate();
   const { login } = useAuth();
-  const [email, setEmail] = useState("student@eklavyaclasses.com");
+  const [email, setEmail] = useState("student@chanakyascienceclasses.com");
   const [password, setPassword] = useState("student123");
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -26,7 +26,7 @@ export default function Login() {
       navigate("/dashboard");
       return;
     }
-    toast.error("Invalid credentials. Try student@eklavyaclasses.com / student123");
+    toast.error("Invalid credentials. Try student@chanakyascienceclasses.com / student123");
   };
 
   return (
@@ -46,7 +46,7 @@ export default function Login() {
                 <Label htmlFor="email">Email or Student ID</Label>
                 <div className="relative mt-1.5">
                   <Mail className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
-                  <Input id="email" value={email} onChange={(e) => setEmail(e.target.value)} className="pl-9" placeholder="student@eklavyaclasses.com" />
+                  <Input id="email" value={email} onChange={(e) => setEmail(e.target.value)} className="pl-9" placeholder="student@chanakyascienceclasses.com" />
                 </div>
               </div>
 
@@ -83,7 +83,7 @@ export default function Login() {
               </Button>
             </form>
             <p className="mt-5 text-center text-xs text-slate-500 dark:text-slate-400">
-              Demo credentials: student@eklavyaclasses.com / student123
+              Demo credentials: student@chanakyascienceclasses.com / student123
             </p>
           </div>
         </div>

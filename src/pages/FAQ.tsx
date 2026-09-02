@@ -18,7 +18,7 @@ export default function FAQ() {
 
   return (
     <>
-      <PageHeader crumb="FAQ" title="Frequently Asked Questions" subtitle="Everything you need to know before joining the Eklavya Classes learning community." />
+      <PageHeader crumb="FAQ" title="Frequently Asked Questions" subtitle="Everything you need to know before joining the Chanakya Science Classes learning community." />
       <section className="py-16">
         <div className="mc-container max-w-4xl space-y-4">
           {faqs.map((faq, index) => {

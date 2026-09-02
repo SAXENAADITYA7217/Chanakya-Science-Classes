@@ -16,8 +16,8 @@ export default function About() {
     <>
       <PageHeader
         crumb="About Us"
-        title="About Eklavya Classes"
-        subtitle="Eklavya Classes is a modern educational institute providing expert teaching, personalized guidance, study materials, regular tests, and academic support across multiple subjects."
+        title="About Chanakya Science Classes"
+        subtitle="Chanakya Science Classes is a modern educational institute providing expert teaching, personalized guidance, study materials, regular tests, and academic support across multiple subjects."
       />
 
       <section className="py-16">
@@ -37,7 +37,7 @@ export default function About() {
               A Decade of Building Academic Confidence
             </h2>
             <p className="reveal mt-4 leading-relaxed text-slate-600 dark:text-slate-400">
-              Founded over 10 years ago in Delhi, Eklavya Classes began with a simple observation:
+              Founded over 10 years ago in Greater Noida, Chanakya Science Classes began with a simple observation:
               students learn best when concepts are taught clearly and supported with personal
               mentoring. We built an institute around expert teaching, practice, and guidance.
             </p>

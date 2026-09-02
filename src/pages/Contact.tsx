@@ -39,9 +39,9 @@ export default function Contact() {
             <div className="mc-card p-6">
               <h3 className="text-xl font-bold text-slate-900 dark:text-white">Reach Us</h3>
               <ul className="mt-5 space-y-4 text-sm text-slate-600 dark:text-slate-400">
-                <li className="flex items-start gap-3"><MapPin className="mt-0.5 h-4 w-4 text-brand-500" /> 24, Green Park Extension, New Delhi, India</li>
-                <li className="flex items-start gap-3"><Phone className="mt-0.5 h-4 w-4 text-brand-500" /> +91 98765 43210</li>
-                <li className="flex items-start gap-3"><Mail className="mt-0.5 h-4 w-4 text-brand-500" /> info@eklavyaclasses.com</li>
+                <li className="flex items-start gap-3"><MapPin className="mt-0.5 h-4 w-4 text-brand-500" /> Mahagun Mywoods, near Gaur City 2, Sector 16C, Greater Noida, UP 201009</li>
+                <li className="flex items-start gap-3"><Phone className="mt-0.5 h-4 w-4 text-brand-500" /> +91 85060 76619</li>
+                <li className="flex items-start gap-3"><Mail className="mt-0.5 h-4 w-4 text-brand-500" /> info@chanakyascienceclasses.com</li>
               </ul>
             </div>
             <div className="mc-card p-6">

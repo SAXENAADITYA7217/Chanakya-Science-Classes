@@ -60,7 +60,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="reveal mt-5 max-w-xl text-lg text-slate-600 dark:text-slate-400">
-              Eklavya Classes offers expert coaching in Mathematics, Science, Physics, Chemistry,
+              Chanakya Science Classes offers expert coaching in Mathematics, Science, Physics, Chemistry,
               Biology, English, Hindi, Social Science, and Computer Science for classes 6–12 and competitive exams.
             </p>
             <div className="reveal mt-8 flex flex-wrap gap-3">
@@ -140,7 +140,7 @@ export default function Home() {
           <div className="mx-auto max-w-2xl text-center">
             <p className="reveal text-sm font-bold uppercase tracking-widest text-brand-600 dark:text-brand-400">Why Choose Us</p>
             <h2 className="reveal mc-section-title mt-2 text-slate-900 dark:text-white">
-              Why Choose Eklavya Classes
+              Why Choose Chanakya Science Classes
             </h2>
             <p className="reveal mc-subtitle">
               All the academic support a student needs across subjects, classes, and exam goals — under one roof.

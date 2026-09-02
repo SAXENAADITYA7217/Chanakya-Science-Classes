@@ -10,7 +10,7 @@ export default function DashboardProfile() {
   const { user, updateProfile } = useAuth();
   const [form, setForm] = useState({
     name: user?.name ?? "Aarav Sharma",
-    email: user?.email ?? "student@eklavyaclasses.com",
+    email: user?.email ?? "student@chanakyascienceclasses.com",
     phone: user?.phone ?? "+91 98765 43210",
     className: user?.class ?? "Class 12 — Board + JEE",
   });
