@@ -59,7 +59,7 @@ export function Footer() {
         <div>
           <Logo />
           <p className="mt-4 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
-            Mathematica Classes helps students excel across Mathematics, Science, English,
+            AKP Tuition Center helps students excel across Mathematics, Science, English,
             Computer Science, and other core subjects with expert coaching and structured mentoring.
           </p>
           <div className="mt-5 flex gap-2">
@@ -127,8 +127,8 @@ export function Footer() {
             </li>
             <li className="flex items-start gap-2.5">
               <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" />
-              <a href="mailto:info@mathematicaclasses.com" className="hover:text-brand-600 dark:hover:text-brand-400">
-                info@mathematicaclasses.com
+              <a href="mailto:info@akptuitioncenter.com" className="hover:text-brand-600 dark:hover:text-brand-400">
+                info@akptuitioncenter.com
               </a>
             </li>
           </ul>

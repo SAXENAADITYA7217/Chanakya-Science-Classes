@@ -16,8 +16,8 @@ export default function About() {
     <>
       <PageHeader
         crumb="About Us"
-        title="About Mathematic Classes"
-        subtitle="Mathematic Classes is a modern mathematics learning platform dedicated to helping students understand concepts, improve problem-solving skills, and achieve excellence in academics and competitive examinations."
+        title="About AKP Tuition Center"
+        subtitle="AKP Tuition Center is a modern educational institute providing expert teaching, personalized guidance, study materials, regular tests, and academic support across multiple subjects."
       />
 
       <section className="py-16">
@@ -37,9 +37,9 @@ export default function About() {
               A Decade of Building Mathematical Confidence
             </h2>
             <p className="reveal mt-4 leading-relaxed text-slate-600 dark:text-slate-400">
-              Founded over 10 years ago in Delhi, Mathematic Classes began with a simple observation:
-              students don't fear mathematics — they fear being taught it badly. We built a
-              institute around concept-first teaching, relentless practice, and personal mentoring.
+              Founded over 10 years ago in Delhi, AKP Tuition Center began with a simple observation:
+              students learn best when concepts are taught clearly and supported with personal
+              mentoring. We built an institute around expert teaching, practice, and guidance.
             </p>
             <p className="reveal mt-4 leading-relaxed text-slate-600 dark:text-slate-400">
               Today, with 50+ expert teachers and 10,000+ trained students, we coach everything from

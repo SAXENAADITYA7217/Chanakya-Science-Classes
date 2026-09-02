@@ -114,7 +114,7 @@ export default function Admissions() {
       <PageHeader
         crumb="Admissions"
         title="Admissions Open 2026–27"
-        subtitle="Join Mathematic Classes in five simple steps. Fill the application form below and our team will contact you within 48 hours."
+        subtitle="Join AKP Tuition Center in five simple steps. Fill the application form below and our team will contact you within 48 hours."
       />
 
       {/* Process steps */}
