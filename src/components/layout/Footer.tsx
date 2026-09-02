@@ -120,10 +120,10 @@ export function Footer() {
           </h4>
           <ul className="mt-4 space-y-3 text-sm text-slate-600 dark:text-slate-400">
             <li className="flex items-start gap-2.5">
-              <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> Delhi, India
+              <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> Galaxy North Ave 2, near Galleria Market, Gaur City 2, Greater Noida, UP 201009
             </li>
             <li className="flex items-start gap-2.5">
-              <Phone className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> +91 XXXXX XXXXX
+              <Phone className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" /> +91 XXXXX XXXXx
             </li>
             <li className="flex items-start gap-2.5">
               <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" />
@@ -173,7 +173,7 @@ export function Footer() {
           <p className="flex items-center gap-1">
             Website Developed with <Heart className="h-4 w-4 fill-red-500 text-red-500" /> by{" "}
             <span className="bg-gradient-to-r from-cyan-500 to-brand-600 bg-clip-text font-bold text-transparent">
-              Priyanshu
+              Aditya Saxena
             </span>
           </p>
         </div>
