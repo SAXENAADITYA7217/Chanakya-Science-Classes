@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
             <h3 className="mt-6 text-xl font-bold text-slate-900 dark:text-white">Data protection</h3>
             <p className="mt-2">We take reasonable steps to secure personal information from unauthorized access, misuse, or disclosure. We do not sell or rent your personal data to third parties.</p>
             <h3 className="mt-6 text-xl font-bold text-slate-900 dark:text-white">Contact</h3>
-            <p className="mt-2">If you have any questions about this policy, please contact us at info@mathematicclasses.com.</p>
+            <p className="mt-2">If you have any questions about this policy, please contact us at info@eklavyaclasses.com.</p>
           </div>
         </div>
       </section>

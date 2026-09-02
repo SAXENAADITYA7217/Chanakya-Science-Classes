@@ -114,7 +114,7 @@ export default function Admissions() {
       <PageHeader
         crumb="Admissions"
         title="Admissions Open 2026–27"
-        subtitle="Join AKP Tuition Center in five simple steps. Fill the application form below and our team will contact you within 48 hours."
+        subtitle="Join Eklavya Classes in five simple steps. Fill the application form below and our team will contact you within 48 hours."
       />
 
       {/* Process steps */}
@@ -224,7 +224,7 @@ export default function Admissions() {
               </div>
               <div className="sm:col-span-2">
                 <Label htmlFor="performance">Previous Academic Performance</Label>
-                <Textarea id="performance" value={form.performance} onChange={(e) => set("performance", e.target.value)} placeholder="e.g. 85% in Class 10 boards, school topper in mathematics…" className="min-h-[80px]" />
+                <Textarea id="performance" value={form.performance} onChange={(e) => set("performance", e.target.value)} placeholder="e.g. 85% in Class 10 boards, school topper in Science…" className="min-h-[80px]" />
               </div>
 
               <div className="grid gap-4 sm:col-span-2 sm:grid-cols-3">

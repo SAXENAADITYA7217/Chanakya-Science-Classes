@@ -5,9 +5,9 @@ import { Button } from "@/components/ui/button";
 import { useReveal } from "@/hooks/useReveal";
 
 const values = [
-  { icon: Target, title: "Our Mission", body: "To make every student fall in love with mathematics by teaching concepts, not shortcuts to memorization — building thinkers who excel in academics and life." },
-  { icon: Eye, title: "Our Vision", body: "To be India's most trusted mathematics learning platform where every student, regardless of starting ability, can achieve excellence through structured guidance." },
-  { icon: HeartHandshake, title: "Our Values", body: "Concept clarity first. Honest feedback always. Personal attention for every student. And the belief that mathematical ability is built, not born." },
+  { icon: Target, title: "Our Mission", body: "To help every student master concepts across subjects through clear teaching, thoughtful practice, and mentoring that builds confidence." },
+  { icon: Eye, title: "Our Vision", body: "To be India's most trusted multi-subject learning platform where every student can achieve excellence through structured guidance." },
+  { icon: HeartHandshake, title: "Our Values", body: "Concept clarity first. Honest feedback always. Personal attention for every student. And the belief that every ability can be built." },
 ];
 
 export default function About() {
@@ -16,8 +16,8 @@ export default function About() {
     <>
       <PageHeader
         crumb="About Us"
-        title="About AKP Tuition Center"
-        subtitle="AKP Tuition Center is a modern educational institute providing expert teaching, personalized guidance, study materials, regular tests, and academic support across multiple subjects."
+        title="About Eklavya Classes"
+        subtitle="Eklavya Classes is a modern educational institute providing expert teaching, personalized guidance, study materials, regular tests, and academic support across multiple subjects."
       />
 
       <section className="py-16">
@@ -34,17 +34,17 @@ export default function About() {
           </div>
           <div>
             <h2 className="reveal mc-section-title text-slate-900 dark:text-white">
-              A Decade of Building Mathematical Confidence
+              A Decade of Building Academic Confidence
             </h2>
             <p className="reveal mt-4 leading-relaxed text-slate-600 dark:text-slate-400">
-              Founded over 10 years ago in Delhi, AKP Tuition Center began with a simple observation:
+              Founded over 10 years ago in Delhi, Eklavya Classes began with a simple observation:
               students learn best when concepts are taught clearly and supported with personal
               mentoring. We built an institute around expert teaching, practice, and guidance.
             </p>
             <p className="reveal mt-4 leading-relaxed text-slate-600 dark:text-slate-400">
               Today, with 50+ expert teachers and 10,000+ trained students, we coach everything from
               class 6 foundations to IIT-JEE, Olympiads and government exams — with the same
-              obsession: every student must understand, not memorize.
+              obsession: every student must understand, not memorize, in every subject.
             </p>
             <div className="reveal mt-8 grid grid-cols-3 gap-4 text-center">
               {[
@@ -79,7 +79,7 @@ export default function About() {
       <section className="py-16">
         <div className="mc-container text-center">
           <h2 className="reveal mc-section-title text-slate-900 dark:text-white">
-            Begin Your Mathematics Journey
+            Begin Your Learning Journey
           </h2>
           <p className="reveal mc-subtitle mx-auto max-w-xl">
             Explore our courses and find the program built for your class, your exam, and your goals.

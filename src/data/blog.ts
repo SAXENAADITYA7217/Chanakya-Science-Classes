@@ -15,7 +15,7 @@ export const blogPosts: BlogPost[] = [
     sections: [
       {
         heading: "Why Problem-Solving Matters More Than Memorizing",
-        body: "Most students lose marks not because they don't know concepts, but because they can't decide how to apply them. Problem-solving is the bridge between knowing and scoring. At AKP Tuition Center, we train students to treat every problem like a puzzle with an entry point, not a memory test.",
+        body: "Most students lose marks not because they don't know concepts, but because they can't decide how to apply them. Problem-solving is the bridge between knowing and scoring. At Eklavya Classes, we train students to treat every problem like a puzzle with an entry point, not a memory test.",
       },
       {
         heading: "The 5-Step Framework",

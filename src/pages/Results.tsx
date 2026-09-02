@@ -8,7 +8,7 @@ export default function Results() {
 
   return (
     <>
-      <PageHeader crumb="Results" title="Academic Excellence" subtitle="A glimpse of the outstanding achievements of our students across board exams, olympiads, and competitive mathematics exams." />
+      <PageHeader crumb="Results" title="Academic Excellence" subtitle="A glimpse of the outstanding achievements of our students across board exams, olympiads, and competitive examinations." />
       <section className="py-16">
         <div className="mc-container grid gap-6 lg:grid-cols-2">
           {results.map((item) => (

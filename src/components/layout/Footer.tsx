@@ -18,10 +18,10 @@ const quickLinks = [
 ];
 
 const popularCourses = [
-  { to: "/courses/foundation-science-maths", label: "Foundation Science & Maths" },
-  { to: "/courses/physics-board-jee", label: "Physics for Boards & JEE" },
-  { to: "/courses/chemistry-mastery", label: "Chemistry Mastery" },
-  { to: "/courses/neet-biology", label: "NEET Biology" },
+  { to: "/courses/foundation-mathematics", label: "Foundation Mathematics" },
+  { to: "/courses/school-science", label: "School Science Mastery" },
+  { to: "/courses/english-communication", label: "English Language & Literature" },
+  { to: "/courses/iit-jee-mathematics", label: "Competitive Exam Preparation" },
   { to: "/courses/computer-science-coding", label: "Computer Science" },
 ];
 
@@ -59,8 +59,8 @@ export function Footer() {
         <div>
           <Logo />
           <p className="mt-4 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
-            AKP Tuition Center helps students excel across Mathematics, Science, English,
-            Computer Science, and other core subjects with expert coaching and structured mentoring.
+            Eklavya Classes helps students excel across Mathematics, Science, English,
+            Computer Science, Social Science, and other core subjects with expert coaching and structured mentoring.
           </p>
           <div className="mt-5 flex gap-2">
             {socials.map((s) => (
@@ -127,8 +127,8 @@ export function Footer() {
             </li>
             <li className="flex items-start gap-2.5">
               <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-500" />
-              <a href="mailto:info@akptuitioncenter.com" className="hover:text-brand-600 dark:hover:text-brand-400">
-                info@akptuitioncenter.com
+              <a href="mailto:info@eklavyaclasses.com" className="hover:text-brand-600 dark:hover:text-brand-400">
+                info@eklavyaclasses.com
               </a>
             </li>
           </ul>

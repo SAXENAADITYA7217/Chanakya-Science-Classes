@@ -32,7 +32,7 @@ export default function Contact() {
 
   return (
     <>
-      <PageHeader crumb="Contact" title="Let's Talk Mathematics" subtitle="Whether you want to know more about a course, admission process, or doubt-solving support, we’re here to help." />
+      <PageHeader crumb="Contact" title="Let's Talk Learning" subtitle="Whether you want to know more about a course, admission process, or doubt-solving support, we’re here to help." />
       <section className="py-16">
         <div className="mc-container grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
           <div className="reveal space-y-6">
@@ -41,7 +41,7 @@ export default function Contact() {
               <ul className="mt-5 space-y-4 text-sm text-slate-600 dark:text-slate-400">
                 <li className="flex items-start gap-3"><MapPin className="mt-0.5 h-4 w-4 text-brand-500" /> 24, Green Park Extension, New Delhi, India</li>
                 <li className="flex items-start gap-3"><Phone className="mt-0.5 h-4 w-4 text-brand-500" /> +91 98765 43210</li>
-                <li className="flex items-start gap-3"><Mail className="mt-0.5 h-4 w-4 text-brand-500" /> info@mathematicclasses.com</li>
+                <li className="flex items-start gap-3"><Mail className="mt-0.5 h-4 w-4 text-brand-500" /> info@eklavyaclasses.com</li>
               </ul>
             </div>
             <div className="mc-card p-6">

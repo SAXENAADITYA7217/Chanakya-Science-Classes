@@ -12,7 +12,7 @@ const AuthContext = createContext<AuthContextValue | null>(null);
 
 const DEFAULT_USER: StudentProfile = {
   name: "Aarav Sharma",
-  email: "student@mathematicclasses.com",
+  email: "student@eklavyaclasses.com",
   phone: "+91 98765 43210",
   studentId: "MC-2026-0142",
   class: "Class 12 — Board + JEE",
@@ -40,7 +40,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const login = async (email: string, password: string) => {
     await new Promise((r) => setTimeout(r, 900));
     const ok =
-      (email.trim().toLowerCase() === "student@mathematicclasses.com" ||
+      (email.trim().toLowerCase() === "student@eklavyaclasses.com" ||
         email.trim().toUpperCase() === "MC-2026-0142") &&
       password === "student123";
     if (ok) {

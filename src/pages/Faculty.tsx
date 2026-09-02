@@ -35,7 +35,7 @@ export default function Faculty() {
       <PageHeader
         crumb="Faculty"
         title="Meet Our Expert Faculty"
-        subtitle="Learn from 50+ qualified mathematics educators — Ph.D.s, IIT alumni, olympiad trainers and board exam specialists."
+        subtitle="Learn from 50+ qualified subject educators — Ph.D.s, IIT alumni, olympiad trainers and board exam specialists."
       />
 
       <section className="py-12">

@@ -40,9 +40,9 @@ export function NewsletterSection() {
         π
       </div>
       <div className="mc-container relative mx-auto max-w-2xl text-center">
-        <h2 className="text-3xl font-bold text-white sm:text-4xl">Stay Updated With Mathematics</h2>
+        <h2 className="text-3xl font-bold text-white sm:text-4xl">Stay Updated With Eklavya Classes</h2>
         <p className="mt-3 text-brand-100">
-          Get study tips, mathematics tricks, exam updates, and educational resources directly in
+          Get study tips, subject resources, exam updates, and educational resources directly in
           your inbox.
         </p>
         <form onSubmit={subscribe} className="mx-auto mt-6 flex max-w-md gap-2">

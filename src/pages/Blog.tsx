@@ -11,7 +11,7 @@ export default function Blog() {
 
   return (
     <>
-      <PageHeader crumb="Blog" title="Insights, Strategies & Study Tips" subtitle="Explore proven guidance, learning techniques, and exam strategies to improve your mathematics journey." />
+      <PageHeader crumb="Blog" title="Insights, Strategies & Study Tips" subtitle="Explore proven guidance, learning techniques, and exam strategies for every subject." />
       <section className="py-16">
         <div className="mc-container grid gap-8 lg:grid-cols-3">
           {blogPosts.map((post) => (

@@ -8,7 +8,7 @@ export default function Testimonials() {
 
   return (
     <>
-      <PageHeader crumb="Testimonials" title="Student Success Stories" subtitle="A few words from students who transformed their confidence, marks, and future through mathematics." />
+      <PageHeader crumb="Testimonials" title="Student Success Stories" subtitle="A few words from students who transformed their confidence, marks, and future through focused learning." />
       <section className="py-16">
         <div className="mc-container grid gap-6 lg:grid-cols-2">
           {testimonials.map((item) => (

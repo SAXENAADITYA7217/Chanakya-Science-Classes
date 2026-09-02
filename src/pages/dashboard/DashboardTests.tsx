@@ -20,7 +20,7 @@ export default function DashboardTests() {
         <div className="mb-6 flex items-center justify-between gap-4">
           <div>
             <p className="text-sm text-brand-600 dark:text-brand-400">Assessment</p>
-            <h2 className="text-2xl font-bold text-slate-900 dark:text-white">Weekly Mathematics Test</h2>
+            <h2 className="text-2xl font-bold text-slate-900 dark:text-white">Weekly Subject Test</h2>
           </div>
           <div className="flex items-center gap-2 rounded-xl bg-brand-50 px-3 py-2 text-sm text-brand-700 dark:bg-brand-950 dark:text-brand-300">
             <Clock3 className="h-4 w-4" /> 10 questions
