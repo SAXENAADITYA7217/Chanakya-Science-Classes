@@ -15,7 +15,7 @@ const navLinks = [
   { to: "/results", label: "Results" },
   { to: "/gallery", label: "Gallery" },
   { to: "/blog", label: "Blog" },
-  { to: "/contact", label: "Contact" },
+  { to: "/contact", label: "Contact Us" },
 ];
 
 export function Header() {
